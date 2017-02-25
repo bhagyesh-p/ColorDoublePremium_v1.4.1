@@ -1,0 +1,11 @@
+name: ColorDoublePremium
+version: 1.0
+author: dogboy
+description: pick a color
+main: dogboy602k.ColorDouble.Main.Main
+commands:
+    CD:
+        description: ColorDoublePremium command
+        permissison: ColorDouble.user.use
+        permission-message: you cannot use this command
+        usage: /<command> <player>
